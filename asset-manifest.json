@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/leonardo75018/QUIZ2/static/css/main.079abb18.chunk.css",
+    "main.js": "/leonardo75018/QUIZ2/static/js/main.6ba7f2b5.chunk.js",
+    "main.js.map": "/leonardo75018/QUIZ2/static/js/main.6ba7f2b5.chunk.js.map",
+    "runtime-main.js": "/leonardo75018/QUIZ2/static/js/runtime-main.71af03f8.js",
+    "runtime-main.js.map": "/leonardo75018/QUIZ2/static/js/runtime-main.71af03f8.js.map",
+    "static/js/2.e6523964.chunk.js": "/leonardo75018/QUIZ2/static/js/2.e6523964.chunk.js",
+    "static/js/2.e6523964.chunk.js.map": "/leonardo75018/QUIZ2/static/js/2.e6523964.chunk.js.map",
+    "index.html": "/leonardo75018/QUIZ2/index.html",
+    "static/css/main.079abb18.chunk.css.map": "/leonardo75018/QUIZ2/static/css/main.079abb18.chunk.css.map",
+    "static/js/2.e6523964.chunk.js.LICENSE.txt": "/leonardo75018/QUIZ2/static/js/2.e6523964.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/leonardo75018/QUIZ2/static/media/Gilroy-ExtraBold.0094146a.otf",
+    "static/media/academie.1eebd2ff.png": "/leonardo75018/QUIZ2/static/media/academie.1eebd2ff.png",
+    "static/media/colorText.14a0eae4.png": "/leonardo75018/QUIZ2/static/media/colorText.14a0eae4.png",
+    "static/media/logo.2cc127a6.png": "/leonardo75018/QUIZ2/static/media/logo.2cc127a6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71af03f8.js",
+    "static/js/2.e6523964.chunk.js",
+    "static/css/main.079abb18.chunk.css",
+    "static/js/main.6ba7f2b5.chunk.js"
+  ]
+}
